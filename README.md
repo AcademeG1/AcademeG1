@@ -8,13 +8,13 @@
  
  <div align="center">
   
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+<!-- ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2388db?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-faf32d?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-f52011?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-09b00c?style=for-the-badge&logo=css)
 ![SASS](https://img.shields.io/badge/-SASS-fff?style=for-the-badge&logo=sass)
-![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-2388db?style=for-the-badge&logo=React-Hook-Form)
+<!-- ![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-2388db?style=for-the-badge&logo=React-Hook-Form) -->
 ![Figma](https://img.shields.io/badge/-FIGMA-faf32d?style=for-the-badge&logo=figma)
 ![NPM](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm)  
 ![Webpack](https://img.shields.io/badge/-WEBPACK-f52011?style=for-the-badge&logo=webpack)
