@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Michail</a>👋</h1>
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Mikhail</a>👋</h1>
 <h3 align="center">I'am FrontEnd Developer from Belarus 🇧🇾</h3>
  
  ---
